@@ -2,6 +2,7 @@
 
 AITomate is a **proof-of-concept utility module** that exposes a handful of safe, structured system helpers for use by tools or agents. It focuses on simple diagnostics and remote execution, returning JSON‑style dictionaries instead of raw strings.
 
+![](ping.gif)
 ### Features
 
 - **File helpers**
